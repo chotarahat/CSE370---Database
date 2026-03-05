@@ -3,9 +3,10 @@
 My first group project developed for university coursework demonstrating university transportation management system.
 
 # Project Name : University Transportation System Lite -
+Project Overview :
+  This project is a database-driven university transportation management system designed to simplify bus services for students, faculty, and staff. 
 
-This project is a database-driven university transportation management system designed to simplify bus services for students, faculty, and staff. 
-It provides:
+# Features
 
 - Profile management for students, drivers, and staff.
 - Bus route and seat booking system with real-time updates.
@@ -16,6 +17,13 @@ It provides:
 
 In short, it’s a lightweight transportation solution that combines scheduling, booking, and payment into one system.
 
+# Technologies Used -
+
+- Backend: PHP
+- Database:	MySQL
+- Server: XAMPP (Apache + MySQL)
+- Frontend:	HTML, CSS
+  
 # How to Run It -
 1. Install XAMPP
 
@@ -40,13 +48,6 @@ In short, it’s a lightweight transportation solution that combines scheduling,
 
   - Students, drivers, and staff can create profiles and access their respective dashboards.
     
-# Technologies Used -
-
-- Backend: PHP
-- Database:	MySQL
-- Server: XAMPP (Apache + MySQL)
-- Frontend:	HTML, CSS
-  
 #  Author Names -
  - Md. Neamatullah Rahat
  - Ahmad Zuhair
