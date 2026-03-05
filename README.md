@@ -3,8 +3,8 @@
 My first group project developed for university coursework demonstrating university transportation management system.
 
 # Project Name : University Transportation System Lite -
-Project Overview :
-  This project is a database-driven university transportation management system designed to simplify bus services for students, faculty, and staff. 
+
+This project is a database-driven university transportation management system designed to simplify bus services for students, faculty, and staff. 
 
 # Features
 
