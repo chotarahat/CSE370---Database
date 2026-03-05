@@ -28,33 +28,27 @@ This project is a database-driven university transportation management system de
 ## How to Run It
 
 1. Install XAMPP
-
   - Download and install XAMPP (includes Apache server and MySQL).
-
 2. Set Up the Project
-
   - Place the project folder inside the htdocs directory of XAMPP.
-
   - Import the provided SQL schema into phpMyAdmin to set up the database.
-
 3. Start Services
-
   - Run Apache and MySQL from the XAMPP control panel.
-
 4. Access the System
-
   - Open a browser and go to:
     http://localhost/[project_folder_name]
-
 5. Login/Register
-
   - Students, drivers, and staff can create profiles and access their respective dashboards.
+    
 ## Usage
+
  - Students can register, book seats, and make payments.
  - Drivers and staff manage bus routes and availability.
  - Admins oversee feedback, subsidies, and system monitoring.
-## Images 
-- Features 
+   
+## Images
+
+- Features
   <img width="787" height="997" alt="image" src="https://github.com/user-attachments/assets/74414d21-c9a4-4ecc-a97b-bdf37905f7bc" />
 - ER Diagram
   <img width="1112" height="803" alt="image" src="https://github.com/user-attachments/assets/d3b6c660-9907-4ef8-8074-eaea684a1c62" />
