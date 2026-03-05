@@ -1,2 +1,4 @@
 # CSE370---Database
-My first GitHub project to learn basics.
+
+My first group project developed for university coursework demonstrating university transportation management system.
+
